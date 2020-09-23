@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "638028380913",
+    "firebase_url": "https://kingslayer-30df2.firebaseio.com",
+    "project_id": "kingslayer-30df2",
+    "storage_bucket": "kingslayer-30df2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:638028380913:android:da273cec537a77b5bb8750",
+        "android_client_info": {
+          "package_name": "com.example.kingslayer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "638028380913-j1midbo79c2amn0ns3o2deu83pb4imcp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMr1p3t5RKk1t7itd15BywsIlUu92f-08"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "638028380913-j1midbo79c2amn0ns3o2deu83pb4imcp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
